@@ -1,0 +1,11 @@
+/RobotTracking/Debug/*.pdb
+/RobotTracking/Debug/*
+/RobotTracking/x64/Debug/*
+
+build/
+intermediate/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj/
