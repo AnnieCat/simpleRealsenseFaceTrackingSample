@@ -6,3 +6,5 @@ Linker // Additional Include
 
 C:\Program Files %28x86%29\Intel\RSSDK\lib\x64
 
+Settings need to be at x64, not win32
+
