@@ -1,0 +1,8 @@
+C++ // Additional Include
+
+C:\Program Files %28x86%29\Intel\RSSDK\include
+
+Linker // Additional Include
+
+C:\Program Files %28x86%29\Intel\RSSDK\lib\x64
+
